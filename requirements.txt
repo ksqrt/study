@@ -36,7 +36,7 @@ charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654
 click @ file:///C:/ci/click_1646038595831/work
 cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
 clyent==1.2.2
-colorama @ file:///C:/Windows/TEMP/abs_9439aeb1-0254-449a-96f7-33ab5eb17fc8apleb4yn/croots/recipe/colorama_1657009099097/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
 colorcet @ file:///C:/b/abs_46vyu0rpdl/croot/colorcet_1668084513237/work
 comtypes==1.1.10
 conda==22.11.1
@@ -66,7 +66,7 @@ docutils @ file:///C:/Windows/TEMP/abs_24e5e278-4d1c-47eb-97b9-f761d871f482dy2vg
 entrypoints @ file:///C:/ci/entrypoints_1649926621128/work
 et-xmlfile==1.1.0
 fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work
-filelock @ file:///opt/conda/conda-bld/filelock_1647002191454/work
+filelock @ file:///C:/b/abs_c7yrhs9uz2/croot/filelock_1672387617533/work
 flake8 @ file:///opt/conda/conda-bld/flake8_1648129545443/work
 Flask @ file:///C:/b/abs_ef16l83sif/croot/flask_1671217367534/work
 flatbuffers==2.0.7
@@ -121,10 +121,10 @@ jupyterlab @ file:///C:/b/abs_36s1nw_wru/croot/jupyterlab_1672132698305/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
 jupyterlab_server @ file:///C:/b/abs_5ayr1vni0w/croot/jupyterlab_server_1672127362727/work
-keras==2.7.0
+keras==2.10.0
 Keras-Preprocessing==1.1.2
 keyring @ file:///C:/ci/keyring_1638531673471/work
-kiwisolver @ file:///C:/ci/kiwisolver_1653292407425/work
+kiwisolver @ file:///C:/b/abs_88mdhvtahm/croot/kiwisolver_1672387921783/work
 lazy-object-proxy @ file:///C:/ci/lazy-object-proxy_1616529288960/work
 libclang==14.0.6
 llvmlite==0.39.1
@@ -151,7 +151,7 @@ nbclassic @ file:///C:/b/abs_26e3fkk516/croot/nbclassic_1668174974037/work
 nbclient @ file:///C:/ci/nbclient_1650290387259/work
 nbconvert @ file:///C:/b/abs_4av3q4okro/croot/nbconvert_1668450658054/work
 nbformat @ file:///C:/b/abs_85_3g7dkt4/croot/nbformat_1670352343720/work
-nest-asyncio @ file:///C:/ci/nest-asyncio_1649829929390/work
+nest-asyncio @ file:///C:/b/abs_3a_4jsjlqu/croot/nest-asyncio_1672387322800/work
 networkx @ file:///C:/ci/networkx_1657716998256/work
 nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
 nose @ file:///opt/conda/conda-bld/nose_1642704612149/work
@@ -185,7 +185,7 @@ plotly @ file:///C:/ci/plotly_1658142442431/work
 pluggy @ file:///C:/ci/pluggy_1648024580010/work
 poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
 prometheus-client @ file:///C:/Windows/TEMP/abs_ab9nx8qb08/croots/recipe/prometheus_client_1659455104602/work
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+prompt-toolkit @ file:///C:/b/abs_6coz5_9f2s/croot/prompt-toolkit_1672387908312/work
 Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
 protobuf==3.19.6
 psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
@@ -200,6 +200,7 @@ pyct @ file:///C:/ci/pyct_1658488033428/work
 pycurl==7.45.1
 PyDispatcher==2.0.5
 pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1621600989141/work
+pydot==1.4.2
 pyerfa @ file:///C:/ci/pyerfa_1621560974055/work
 pyflakes @ file:///tmp/build/80754af9/pyflakes_1636644436481/work
 Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
@@ -277,13 +278,12 @@ tabulate @ file:///C:/ci/tabulate_1657619055201/work
 TBB==0.2
 tblib @ file:///Users/ktietz/demo/mc3/conda-bld/tblib_1629402031467/work
 tenacity @ file:///C:/Windows/TEMP/abs_980d07a6-8e21-4174-9c17-7296219678ads7dhdov_/croots/recipe/tenacity_1657899108023/work
-tensorboard==2.11.0
+tensorboard==2.10.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow-cpu==2.7.4
-tensorflow-estimator==2.7.0
-tensorflow-gpu==2.7.4
-tensorflow-intel==2.11.0
+tensorflow-estimator==2.10.0
+tensorflow-gpu==2.10.1
 tensorflow-io-gcs-filesystem==0.29.0
 termcolor==2.1.1
 terminado @ file:///C:/b/abs_25nakickad/croot/terminado_1671751845491/work
@@ -326,5 +326,5 @@ XlsxWriter @ file:///opt/conda/conda-bld/xlsxwriter_1649073856329/work
 xlwings @ file:///C:/b/abs_41rmpiyy58/croots/recipe/xlwings_1664932818417/work
 yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
 zict==2.1.0
-zipp @ file:///C:/ci/zipp_1652273994994/work
+zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
 zope.interface @ file:///C:/ci/zope.interface_1625036252485/work
